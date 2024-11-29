@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773740698896",
+    "project_id": "projectiot-40548",
+    "storage_bucket": "projectiot-40548.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773740698896:android:1de97fe49904a6b269d995",
+        "android_client_info": {
+          "package_name": "com.example.pfm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ud_eBfcY3UpXEbqKAF6hcdffh69WcD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
